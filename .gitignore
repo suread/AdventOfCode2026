@@ -1,0 +1,10 @@
+# Puzzle inputs and example text belong to Advent of Code - never commit them
+inputs/*
+!inputs/README.md
+
+# Build output / IDE
+build/
+.gradle/
+.idea/
+*.iml
+out/
